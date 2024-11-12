@@ -11,7 +11,7 @@ Outside of coding, I enjoy cooking and taking photos. For a closer look at my wo
 ## 🌐 Socials:
 [![Static Badge](https://img.shields.io/badge/My_Portfolio-00008B)](https://www.tateosborne.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tate-osborne) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tatedoesphotography)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
