@@ -1,6 +1,8 @@
 ### tate p o
 ---
 
-swe by trade
+swe (@mascomatechnologies)
 
-photography hobbyist. [check them out](https://www.instagram.com/tatedoesphotography/)
+mscs student (@gatech)
+
+photography hobbyist ([@tatedoesphotography](https://www.instagram.com/tatedoesphotography/))
